@@ -1,0 +1,27 @@
+.sidebar_Col_first {
+	padding-top: 4vh;
+	padding-bottom: 6vh;
+	/* padding-left: 0.1vw; */
+}
+.Row {
+	display: flex;
+	width: 100% !important;
+	/* margin-left: 9vw; */
+	/* border: 1px solid red; */
+	justify-content: center;
+	align-items: center;
+}
+#image {
+	margin-right: 10px;
+}
+#Col_1 {
+	/* border: 1px solid white; */
+}
+#h6 {
+	padding: 0 !important;
+	margin-right: 0 !important;
+	font-weight: 500;
+	font-size: 1rem !important;
+	color: #72737d;
+	overflow: hidden;
+}

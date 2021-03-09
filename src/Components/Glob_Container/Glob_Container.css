@@ -1,0 +1,35 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+.header {
+	display: flex;
+	text-align: center;
+	justify-content: space-between;
+	/* border: 1px solid black; */
+	padding-left: 1vw;
+	padding-right: 3vw;
+	padding-top: 2vh;
+}
+h6 {
+	overflow: hidden !important;
+}
+.right_Content {
+	display: flex;
+	width: 18vw;
+	justify-content: center;
+	align-items: center;
+
+	/* border-left: 1px solid black; */
+	/* border: 1px solid black; */
+	justify-content: flex-end;
+}
+#right_content_Image {
+	margin-left: 2vw;
+	width: 5vw;
+	height: 10vh;
+	border-radius: 50%;
+}
+h4 {
+	overflow: hidden;
+}

@@ -1,0 +1,47 @@
+.ItemsNeededCard {
+	margin-top: 1vh;
+	/* overflow: visible !important; */
+}
+.Heading {
+	margin-top: 5vh;
+	margin-left: 1vw;
+	margin-bottom: 5vh;
+}
+h5 {
+	overflow: hidden;
+}
+/* td {
+	border: 1px solid black;
+} */
+
+.table2 {
+	/* position: relative;
+	right: 5vw; */
+	/* margin-right: 5vw; */
+
+	/* border: 1px dotted blue; */
+}
+#Col2 {
+	/* position: relative;
+	right: 5vw; */
+	/* width: 50vw; */
+	/* border: 1px solid black !important; */
+	padding-right: 2vw;
+}
+.btn1 {
+	margin-top: 1vh;
+	display: flex;
+	justify-content: flex-end;
+	/* border: 1px solid black; */
+}
+.btn2 {
+	/* border: 1px solid black; */
+	/* width: 40vw; */
+	margin-top: 1vh;
+	display: flex;
+	justify-content: flex-end;
+	/* align-items: center; */
+}
+#bttn {
+	margin-left: 1vw;
+}

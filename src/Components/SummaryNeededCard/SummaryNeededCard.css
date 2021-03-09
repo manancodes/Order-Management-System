@@ -1,0 +1,23 @@
+.table_stripped {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-right: 1vw;
+	/* border: 1px solid black; */
+	/* width: 60vw; */
+}
+.summary_Container {
+	margin-top: 2vh;
+}
+.second_container {
+	margin-top: 6vh;
+}
+h2 {
+	overflow: hidden;
+}
+.insideCard_Container {
+	margin-left: 2vw;
+	padding: 10vh 0 10vh 5vw;
+	/* border: 1px solid black; */
+	width: 70vw;
+}

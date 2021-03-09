@@ -1,0 +1,46 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+.Outer_Container {
+	margin-top: 1vh;
+	overflow-x: hidden;
+}
+#Table {
+	overflow: hidden;
+}
+.Heading {
+	margin-left: 1vw;
+}
+.form_container {
+	/* border: 1px solid black; */
+	margin-left: 1vw;
+}
+.table {
+	overflow: hidden;
+	margin-left: 1vw;
+	text-align: center;
+}
+td {
+	/* border: 1px solid black; */
+}
+tr {
+	height: 1px !important;
+}
+/* .td_2 {
+	width: 10vw;
+	border: 2px solid black !important;
+} */
+.addItem {
+	padding-right: 2vw;
+	display: flex;
+	justify-content: flex-end;
+	/* border: 1px solid black; */
+}
+.placeOrder {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-top: 1vh;
+	margin-bottom: 2vh;
+}
